@@ -1,2 +1,7 @@
-# demo-escribania-echavarri
-Demo web para Escribanía Echavarri — diseñada por eterlab.
+# Escribanía Echavarri
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
